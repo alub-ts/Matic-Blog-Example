@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Before running `yarn start` you should add your TERMINAL credentials to the places marked in src/App.js and add your portis DEV ID
 ## Available Scripts
 
 In the project directory, you can run:
