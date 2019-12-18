@@ -1,6 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Before running `yarn start` you should add your TERMINAL credentials to the places marked in src/App.js and add your portis DEV ID
+Before running `yarn start` you should add your [Terminal](https://terminal.co)  credentials to the places marked in src/App.js and add your portis DEV ID
+
+For more information on using the [TerminalSDK](https://docs.terminal.co/logs-analytics/hexsdk-quickstart) or help [integrating layer 2](https://docs.terminal.co/logs-analytics/hexsdk/layer-two) with Terminal pplease feel free to reachout on Discord, on our website, at hi@terminal.co or on Twitter as we are more than happy to help bootstrap you project with TerminalSDK. 
 ## Available Scripts
 
 In the project directory, you can run:
